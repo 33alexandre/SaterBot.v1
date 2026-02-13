@@ -3,10 +3,6 @@
 
 Este projeto é um bot desenvolvido em Python que utiliza a biblioteca **Langchain** para processar PDFs, vídeos do YouTube e sites, gerando resumos e explicações automatizadas.
 
-## Agradecimentos
-
-Este projeto foi desenvolvido com o auxílio da **Asimov**. site: [https://asimov.academy/].
-
 ## Funcionalidades
 
 - **PDFs:** O bot lê e interpreta arquivos PDF, extraindo as informações mais relevantes.
