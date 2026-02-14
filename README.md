@@ -1,4 +1,4 @@
-# SaterBot.v1
+# SaterBot.v2
 # Bot de Resumo e Explicação de Conteúdos
 
 Este projeto é um bot desenvolvido em Python que utiliza a biblioteca **Langchain** para processar PDFs, vídeos do YouTube e sites, gerando resumos e explicações automatizadas.
@@ -19,4 +19,4 @@ Este projeto é um bot desenvolvido em Python que utiliza a biblioteca **Langcha
 ### 1. Clonar o repositório
 Clone o repositório para sua máquina local usando o Git:
 ```bash
-git clone https://github.com/33alexandre/SaterBot.v1.git
+https://github.com/33alexandre/SaterBot.v2.git
